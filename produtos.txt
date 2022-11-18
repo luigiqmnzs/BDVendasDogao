@@ -1,0 +1,5 @@
+2;Dogão Completo;1.5;7.0;100;50
+5;Dogão Dogão ;1.0;5.0;100;60
+4;Chicken Dogão;2.0;6.0;48;20
+1;Dogão Gourmet;10.0;15.0;4;10
+3;Dogão Veggie;2.5;10.5;19;10
